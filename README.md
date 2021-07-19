@@ -1,4 +1,7 @@
+<h2 align="center"> Hey 👋, I'm Kajé!</h2>
+<p align="center">A full stack JavaScript enthusiast who is currently working on React, React-Native & Node.js projects</p>
 <p align="center">
+  <br>
   <img src ="https://github-readme-stats.vercel.app/api?username=kaje94&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs">
   <br>
   <br>
