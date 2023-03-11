@@ -2,7 +2,7 @@
 <p align="center">A full stack TypeScript/JavaScript enthusiast who is currently working on React, React-Native & Node.js</p>
 
 <p align="center">
-  <a href="https://kajendran.dev">
+  <a target="_blank" href="https://kajendran.dev">
     <img alt="kaje94-Preview" src="preview.png" width="1024">
   </a>
 </p>
