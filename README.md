@@ -1,5 +1,5 @@
 <h2 align="center"> Hey 👋, I'm Kajé!</h2>
-<p align="center">Passionate full-stack engineer driving innovation across React, React-Native, Node.js, TypeScript, Go, and AWS</p>
+<p align="center">A versatile full-stack engineer propelling innovation across React, React-Native, Node.js, TypeScript, Go, and AWS</p>
 
 <p align="center">
   <a href="https://kajendran.dev">
