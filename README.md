@@ -1,7 +1,3 @@
-<h2 align="center"> Hey 👋, I'm Kajé!</h2>
-<p align="center"> - </p>
-<h4 align="center">A dynamic full-stack engineer propelling innovation across React, React-Native, Node.js, TypeScript, Go, and AWS</h4>
-
 <p align="center">
   <a href="https://kajendran.dev">
     <img alt="kaje94-Preview" src="preview.png" width="1024">
